@@ -26,6 +26,10 @@ npm install
 
 記事のプレビューの際には以下のコマンドを叩いてください。
 ```
+npm preview
+or
+yarn preview
+or
 npx zenn preview
 ```
 以下のようにlocalhostが立ち上がります。
