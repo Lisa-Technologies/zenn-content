@@ -26,6 +26,10 @@ npm install
 
 記事のプレビューの際には以下のコマンドを叩いてください。
 ```
+npm preview
+or
+yarn preview
+or
 npx zenn preview
 ```
 以下のようにlocalhostが立ち上がります。
@@ -46,6 +50,10 @@ npx zenn preview
 4. 適切なslugやemoji、tagなどを設定します
 5. 推敲段階まで来たらPRを投げ、誤字脱字等をレビューしてもらいます（採用促進テンプレートの内容を最後に書くようにしてください）
 6. mainにマージされることで、自動的にZenn側にデプロイされます
+
+
+## 画像について
+[Zennの画像コンテナ](https://zenn.dev/dashboard/uploader)を利用し、URLを取得して貼り付けてください。
 
 ## 採用促進テンプレート
 下記の内容を記事の末尾に貼り付けてください。テンプレートは採用状況に合わせて適宜更新しましょう！
