@@ -71,7 +71,7 @@ Wantedly募集一覧
 - [成長市場、フードデリバリーの管理SaaS。フロントエンドインターンを募集！](https://www.wantedly.com/projects/752452)
 
 開発ブログ
-https://lisatech.blog
+https://dev-blog.lisatech.jp
 
 プロダクトLP
 https://fooddeliverymanager.com/
