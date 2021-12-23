@@ -3,7 +3,7 @@ title: "Notionでインセプションデッキテンプレートを作ったの
 emoji: "📑"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["スクラム", "notion"]
-published: false
+published: true
 ---
 
 こんにちは！Lisa Technologies 株式会社インターンの[なかがわはじめ](https://zenn.dev/ikenohi)です！
