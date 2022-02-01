@@ -3,7 +3,7 @@ title: "顧客の声をプロダクトに反映したい！Productboardを触っ
 emoji: "🦻🏻"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["productboard", "ツール"]
-published: false
+published: true
 ---
 
 # 概要
