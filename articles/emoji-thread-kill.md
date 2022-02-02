@@ -3,7 +3,7 @@ title: "褒め殺して、アウトプット（を歓迎）する文化を作ろ
 emoji: "🌟"
 type: "idea" # tech: 技術記事 / idea: アイデア
 topics: ["zenn", "slack", "ベンチャー"]
-published: false
+published: true
 ---
 
 こんにちは！Lisa Technologies 株式会社インターンの[いのうえこうすけ](https://dev-blog.lisatech.jp/members/kosukeinoue/)です！
